@@ -1,0 +1,45 @@
+body{
+    font-family: 'Montserrat';
+}
+.navbar-brand{
+    font-weight: 500;
+}
+.home{
+    background-color: #f0f5f9;
+    padding: 150px 0 100px 0;
+}
+.about-card-image{
+    width: 80px;
+}
+.row{
+    text-align: center;
+}
+.results-image{
+    width: 80px;
+}
+.reviews-container{
+    background-color: #f0f5f9;
+    padding: 100px 50px;
+}
+.main-navbar-item{
+    display: inline-block;
+    padding: 10px;
+}
+.main-navbar-item a{
+    color: #05364d;
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: 500;
+}
+.main-navbar-item a:hover{
+    color: #efb6df;
+}
+.main-navbar-item.active a{
+    color: #efb6df;
+}
+.navber{
+    text-align: center;
+}
+.container{
+    background-color: #f0f5f9;
+}
